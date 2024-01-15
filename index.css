@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+}
+
+button {
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    border-radius: 5px;
+    border: 2px solid #9AABD8;
+    color: #9AABD8;
+    text-align: center;
+    font-family: Cursed Timer ULiL;
+    font-size: 18px;
+    font-style: normal; 
+    font-weight: 400;
+    line-height: 27.812px;
+    background: #1B244A;
+
+}
+
+.container {
+    width: 575px;
+    height: 385px;
+    background: #1B244A;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.team-div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 155px;
+    }
+
+.teams-txt {
+    margin-top: 68px;
+    margin-bottom: 0px;
+    color: #EEE;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.score-div {
+    color: red;
+    width: 155px;
+    height: 120px;
+    background-color: #080001;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    text-align: center;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 126.666px;
+    margin-top: 13px;
+                                                
+}
+
+.add-points-div {
+    margin-top: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.addBtn-div {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
+.addBtn-btn {
+    width: auto;
+    padding: px 10px;
+}
